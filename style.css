@@ -1,0 +1,23 @@
+body{
+   background-color: grey; 
+  
+   
+}
+img {
+    border-style: solid;
+    border-width: 10px;
+    width:500px;
+
+}
+h2{
+    border-style: dashed;
+    border-color: black;
+
+}
+h1{ color: red;}
+
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index :99999;
+}
